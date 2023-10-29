@@ -1,11 +1,11 @@
 from datetime import datetime
-from pymongo import MongoClient
 import json
+from motor.motor_asyncio import AsyncIOMotorClient
 
-db = MongoClient('localhost', 27017)['salary_base']
+db = AsyncIOMotorClient('localhost', 27017)['salary_base']
 sample_collection = db.salary
 
-def aggregate_data(input_data):
+async def aggregate_data(input_data):
     grouping_types = {
         'month': {"date": {"$dateTrunc": {"date": "$dt", "unit": "month"}}},
         'week': {"date": {"$dateTrunc": {"date": "$dt", "unit": "week"}}},
@@ -52,7 +52,7 @@ def aggregate_data(input_data):
     labels = []
     data = []
 
-    for item in aggregation:
+    async for item in aggregation:
         labels.append(datetime.strftime(item['_id']['date'], "%Y-%m-%dT%H:%M:%S"))
         data.append(item['total_value'])
 

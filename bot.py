@@ -1,23 +1,15 @@
 from datetime import datetime
-from aiogram import Bot, Dispatcher, F
+from aiogram import Bot, Dispatcher
 from aiogram.filters import CommandStart
 from aiogram.types import Message
 import asyncio
 import logging
-import json
-from aiogram.fsm.state import State, StatesGroup
-from aiogram.fsm.context import FSMContext
 from aggregation import aggregate_data
 
 API_TOKEN = "6249189353:AAGPSlM-l_CuUXzGeh6NS280pgROia5f1fE"
 
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher()
-
-
-# Состояния FSM
-class Form(StatesGroup):
-    waiting_for_message = State()
 
 # Обработчик команды /start
 @dp.message(CommandStart())
@@ -37,7 +29,7 @@ async def aggregate_salary(message: Message):
         # Проверяем, что введенные данные имеют правильный формат
         if all(key in user_input for key in ('dt_from', 'dt_upto', 'group_type')):
             # Вызываем функцию агрегации с введенными данными
-            result = aggregate_data(user_input)
+            result = await aggregate_data(user_input)
         # Отправляем агрегированные данные обратно пользователю
             await message.answer(f"{result}")
     except Exception as e:

@@ -85,3 +85,15 @@
 2023-10-29 13:38:09,814 INFO Update id=636186760 is handled. Duration 159 ms by bot id=6249189353
 2023-10-29 13:38:10,091 INFO Update id=636186761 is handled. Duration 203 ms by bot id=6249189353
 2023-10-29 13:38:10,335 INFO Update id=636186762 is handled. Duration 160 ms by bot id=6249189353
+2023-10-29 13:44:22,070 WARNING Received SIGINT signal
+2023-10-29 13:44:22,071 INFO Polling stopped for bot @SSTVoks_bot id=6249189353 - '***_bot'
+2023-10-29 13:44:22,071 INFO Polling stopped
+2023-10-29 13:44:23,415 INFO Start polling
+2023-10-29 13:44:23,583 INFO Run polling for bot @SSTVoks_bot id=6249189353 - '***_bot'
+2023-10-29 13:44:37,090 INFO Update id=636186763 is handled. Duration 233 ms by bot id=6249189353
+2023-10-29 13:46:06,790 WARNING Received SIGINT signal
+2023-10-29 13:46:06,791 INFO Polling stopped for bot @SSTVoks_bot id=6249189353 - '***_bot'
+2023-10-29 13:46:06,791 INFO Polling stopped
+2023-10-29 13:46:07,886 INFO Start polling
+2023-10-29 13:46:08,084 INFO Run polling for bot @SSTVoks_bot id=6249189353 - '***_bot'
+2023-10-29 13:46:14,618 INFO Update id=636186764 is handled. Duration 339 ms by bot id=6249189353
