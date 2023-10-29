@@ -1,0 +1,87 @@
+2023-10-29 13:09:57,724 INFO Start polling
+2023-10-29 13:09:57,993 INFO Run polling for bot @SSTVoks_bot id=6249189353 - '***_bot'
+2023-10-29 13:10:10,299 INFO Update id=636186738 is handled. Duration 489 ms by bot id=6249189353
+2023-10-29 13:10:22,229 INFO Update id=636186739 is handled. Duration 125 ms by bot id=6249189353
+2023-10-29 13:12:39,257 WARNING Received SIGINT signal
+2023-10-29 13:12:39,257 INFO Polling stopped for bot @SSTVoks_bot id=6249189353 - '***_bot'
+2023-10-29 13:12:39,257 INFO Polling stopped
+2023-10-29 13:12:40,475 INFO Start polling
+2023-10-29 13:12:40,648 INFO Run polling for bot @SSTVoks_bot id=6249189353 - '***_bot'
+2023-10-29 13:12:50,567 INFO Update id=636186740 is handled. Duration 426 ms by bot id=6249189353
+2023-10-29 13:14:25,664 WARNING Received SIGINT signal
+2023-10-29 13:14:25,665 INFO Polling stopped for bot @SSTVoks_bot id=6249189353 - '***_bot'
+2023-10-29 13:14:25,665 INFO Polling stopped
+2023-10-29 13:14:34,164 INFO Start polling
+2023-10-29 13:14:34,326 INFO Run polling for bot @SSTVoks_bot id=6249189353 - '***_bot'
+2023-10-29 13:14:39,874 INFO Update id=636186741 is handled. Duration 347 ms by bot id=6249189353
+2023-10-29 13:16:52,759 WARNING Received SIGINT signal
+2023-10-29 13:16:52,759 INFO Polling stopped for bot @SSTVoks_bot id=6249189353 - '***_bot'
+2023-10-29 13:16:52,760 INFO Polling stopped
+2023-10-29 13:16:54,296 INFO Start polling
+2023-10-29 13:16:54,485 INFO Run polling for bot @SSTVoks_bot id=6249189353 - '***_bot'
+2023-10-29 13:16:59,728 INFO Update id=636186742 is handled. Duration 365 ms by bot id=6249189353
+2023-10-29 13:18:13,304 WARNING Received SIGINT signal
+2023-10-29 13:18:13,305 INFO Polling stopped for bot @SSTVoks_bot id=6249189353 - '***_bot'
+2023-10-29 13:18:13,305 INFO Polling stopped
+2023-10-29 13:18:14,441 INFO Start polling
+2023-10-29 13:18:14,608 INFO Run polling for bot @SSTVoks_bot id=6249189353 - '***_bot'
+2023-10-29 13:18:21,977 INFO Update id=636186743 is handled. Duration 374 ms by bot id=6249189353
+2023-10-29 13:18:49,793 WARNING Received SIGINT signal
+2023-10-29 13:18:49,793 INFO Polling stopped for bot @SSTVoks_bot id=6249189353 - '***_bot'
+2023-10-29 13:18:49,793 INFO Polling stopped
+2023-10-29 13:18:51,183 INFO Start polling
+2023-10-29 13:18:51,351 INFO Run polling for bot @SSTVoks_bot id=6249189353 - '***_bot'
+2023-10-29 13:19:11,478 WARNING Received SIGINT signal
+2023-10-29 13:19:11,479 INFO Polling stopped for bot @SSTVoks_bot id=6249189353 - '***_bot'
+2023-10-29 13:19:11,479 INFO Polling stopped
+2023-10-29 13:19:12,819 INFO Start polling
+2023-10-29 13:19:13,019 INFO Run polling for bot @SSTVoks_bot id=6249189353 - '***_bot'
+2023-10-29 13:19:20,453 INFO Update id=636186744 is handled. Duration 394 ms by bot id=6249189353
+2023-10-29 13:20:57,672 WARNING Received SIGINT signal
+2023-10-29 13:20:57,673 INFO Polling stopped for bot @SSTVoks_bot id=6249189353 - '***_bot'
+2023-10-29 13:20:57,673 INFO Polling stopped
+2023-10-29 13:20:59,217 INFO Start polling
+2023-10-29 13:20:59,396 INFO Run polling for bot @SSTVoks_bot id=6249189353 - '***_bot'
+2023-10-29 13:21:07,342 INFO Update id=636186745 is handled. Duration 296 ms by bot id=6249189353
+2023-10-29 13:22:05,489 WARNING Received SIGINT signal
+2023-10-29 13:22:05,489 INFO Polling stopped for bot @SSTVoks_bot id=6249189353 - '***_bot'
+2023-10-29 13:22:05,490 INFO Polling stopped
+2023-10-29 13:22:06,674 INFO Start polling
+2023-10-29 13:22:06,847 INFO Run polling for bot @SSTVoks_bot id=6249189353 - '***_bot'
+2023-10-29 13:22:13,292 INFO Update id=636186746 is handled. Duration 280 ms by bot id=6249189353
+2023-10-29 13:25:12,157 WARNING Received SIGINT signal
+2023-10-29 13:25:12,158 INFO Polling stopped for bot @SSTVoks_bot id=6249189353 - '***_bot'
+2023-10-29 13:25:12,158 INFO Polling stopped
+2023-10-29 13:25:13,610 INFO Start polling
+2023-10-29 13:25:13,779 INFO Run polling for bot @SSTVoks_bot id=6249189353 - '***_bot'
+2023-10-29 13:25:20,564 INFO Update id=636186747 is handled. Duration 339 ms by bot id=6249189353
+2023-10-29 13:25:29,420 WARNING Received SIGINT signal
+2023-10-29 13:25:29,421 INFO Polling stopped for bot @SSTVoks_bot id=6249189353 - '***_bot'
+2023-10-29 13:25:29,421 INFO Polling stopped
+2023-10-29 13:25:30,668 INFO Start polling
+2023-10-29 13:25:30,833 INFO Run polling for bot @SSTVoks_bot id=6249189353 - '***_bot'
+2023-10-29 13:25:33,499 INFO Update id=636186748 is handled. Duration 268 ms by bot id=6249189353
+2023-10-29 13:26:41,825 WARNING Received SIGINT signal
+2023-10-29 13:26:41,826 INFO Polling stopped for bot @SSTVoks_bot id=6249189353 - '***_bot'
+2023-10-29 13:26:41,826 INFO Polling stopped
+2023-10-29 13:26:43,271 INFO Start polling
+2023-10-29 13:26:43,440 INFO Run polling for bot @SSTVoks_bot id=6249189353 - '***_bot'
+2023-10-29 13:26:49,697 INFO Update id=636186749 is handled. Duration 381 ms by bot id=6249189353
+2023-10-29 13:30:35,131 INFO Update id=636186750 is handled. Duration 336 ms by bot id=6249189353
+2023-10-29 13:30:45,962 INFO Update id=636186751 is handled. Duration 252 ms by bot id=6249189353
+2023-10-29 13:37:42,395 WARNING Received SIGINT signal
+2023-10-29 13:37:42,396 INFO Polling stopped for bot @SSTVoks_bot id=6249189353 - '***_bot'
+2023-10-29 13:37:42,396 INFO Polling stopped
+2023-10-29 13:37:43,953 INFO Start polling
+2023-10-29 13:37:44,135 INFO Run polling for bot @SSTVoks_bot id=6249189353 - '***_bot'
+2023-10-29 13:37:52,570 INFO Update id=636186752 is handled. Duration 352 ms by bot id=6249189353
+2023-10-29 13:38:07,845 INFO Update id=636186753 is handled. Duration 315 ms by bot id=6249189353
+2023-10-29 13:38:08,184 INFO Update id=636186754 is handled. Duration 234 ms by bot id=6249189353
+2023-10-29 13:38:08,473 INFO Update id=636186755 is handled. Duration 171 ms by bot id=6249189353
+2023-10-29 13:38:08,702 INFO Update id=636186756 is handled. Duration 144 ms by bot id=6249189353
+2023-10-29 13:38:09,094 INFO Update id=636186757 is handled. Duration 315 ms by bot id=6249189353
+2023-10-29 13:38:09,326 INFO Update id=636186758 is handled. Duration 163 ms by bot id=6249189353
+2023-10-29 13:38:09,551 INFO Update id=636186759 is handled. Duration 154 ms by bot id=6249189353
+2023-10-29 13:38:09,814 INFO Update id=636186760 is handled. Duration 159 ms by bot id=6249189353
+2023-10-29 13:38:10,091 INFO Update id=636186761 is handled. Duration 203 ms by bot id=6249189353
+2023-10-29 13:38:10,335 INFO Update id=636186762 is handled. Duration 160 ms by bot id=6249189353
